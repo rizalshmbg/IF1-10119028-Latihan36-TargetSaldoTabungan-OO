@@ -13,7 +13,7 @@ import java.util.Scanner;
  * KELAS    : IF1
  * NIM      : 10119028
  * Deskripsi Program : Program ini berisi program untuk menampilkan target
- *                     saldo tabungan dengan konsep OOP
+ *                     saldo tabungan dengan konsep OO
  */
 public class TargetSaldoTabungan {
     
