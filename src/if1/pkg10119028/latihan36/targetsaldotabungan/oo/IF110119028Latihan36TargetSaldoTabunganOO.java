@@ -12,7 +12,7 @@ package if1.pkg10119028.latihan36.targetsaldotabungan.oo;
  * KELAS    : IF1
  * NIM      : 10119028
  * Deskripsi Program : Program ini berisi program untuk menampilkan target
- *                     saldo tabungan dengan konsep OOP
+ *                     saldo tabungan dengan konsep OO
  */
 public class IF110119028Latihan36TargetSaldoTabunganOO {
 
